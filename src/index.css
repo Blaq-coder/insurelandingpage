@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:wght@400;500;700=swap');
+
+/* Font utility classes */
+.font-serif {
+  font-family: 'DM Serif Display', serif;
+}
+
+.font-karla {
+  font-family: 'Karla', sans-serif;
+}
